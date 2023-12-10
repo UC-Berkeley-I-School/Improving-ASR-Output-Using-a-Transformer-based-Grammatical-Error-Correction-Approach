@@ -1,7 +1,7 @@
 # Improving-ASR-Output-Using-a-Transformer-based-Grammatical-Error-Correction-Approach
 
-**DATASCI 266 Natural Language Processing with Deep Learning Final Project**
-*Group*: Rachel Gao, Juliana Gómez-Consuegra, Erica Nakabayashi  
+## DATASCI 266 Natural Language Processing with Deep Learning Final Project
+*Authors*: Rachel Gao, Juliana Gómez-Consuegra, Erica Nakabayashi  
 *Emails*: rachelgao, julianagc, ericanaka @berkeley.edu
 
 ## Abstract
